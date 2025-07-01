@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="3hbu3kj4hdlhfn4ql6vifch7hkvtkayi">
+    <updatecheck codebase="https://davimaia-cloud.github.io/whitelist-blocker-config/whitelist_blocker.crx" version="1.1" />
+  </app>
+</gupdate>
