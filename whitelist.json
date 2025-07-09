@@ -1,64 +1,28 @@
-[
-  "*.html",
-  "*.adapta.org",
-  "*config*",
-  "*consulta*",
-  "*gov.br",
-  "*intranet*",
-  "*ooklaserver*",
-  "*settings*",
-  "*slack*",
-  "*speedtest*",
-  "FILE",
-  "adapta.org",
-  "app.slack.com",
-  "cdn.cookielaw.org",
-  "clevert.com.br",
-  "code.jquery.com",
-  "detectportal.firefox.com",
-  "dias-uteis.com",
-  "geradorcpf.com",
-  "home.mcafee.com",
-  "incoming.telemetry.mozilla.org",
-  "mcafee.com",
-  "planalto.gov.br",
-  "prazofacil.com.br",
-  "smartpdf.com.br",
-  "souzaadv.slack.com",
-  "validadordecnpj",
-  "validadordecnpj.clevert.com.br",
-  "microsoft.com*",
-  "clients1.google.com",
-  "clients2.google.com",
-  "clients3.google.com",
-  "clients4.google.com",
-  "gstatic.com",
-  "fonts.googleapis.com",
-  "fonts.gstatic.com",
-  "googleapis.com",
-  "googleusercontent.com",
-  "cdn.jsdelivr.net",
-  "cdn.cookielaw.org",
-  "code.jquery.com",
-  "use.typekit.net",
-  "cdnjs.cloudflare.com",
-  "cloudflare.com",
-  "firebaselogging-pa.googleapis.com",
-  "detectportal.firefox.com",
-  "incoming.telemetry.mozilla.org",
-  "telemetry.mozilla.org",
-  "safebrowsing.googleapis.com",
-  "safebrowsing.urlsec.google.com",
-  "microsoft.com",
-  "data.microsoft.com",
-  "events.data.microsoft.com",
-  "functional.events.data.microsoft.com",
-  "msedge.net",
-  "browser.events.data.microsoft.com",
-  "aka.ms",
-  "nexusrules.officeapps.live.com",
-  "officeclient.microsoft.com",
-  "update.googleapis.com",
-  "ocsp.pki.goog",
-  "ocsp.digicert.com"
-]
+*
++**.html
++*.adapta.org
++*config*
++*consulta*
++*gov.br
++*ooklaserver*
++*settings*
++*slack*
++*speedtest*
++FILE
++adapta.org
++app.slack.com
++cdn.cookielaw.org
++clevert.com.br
++code.jquery.com
++detectportal.firefox.com
++dias-uteis.com
++geradorcpf.com
++home.mcafee.com
++incoming.telemetry.mozilla.org
++mcafee.com
++openai.com
++planalto.gov.br
++prazofacil.com.br
++souzaadv.slack.com
++validadordecnpj
++validadordecnpj.clevert.com.br
