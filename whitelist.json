@@ -1,1 +1,31 @@
-["planalto.gov", "validadordecnpj", "speedtest", "geradorcpf", "ooklaserver", "code.jquery.com", "clevert.com.br", "souzaadv.slack.com", "app.slack.com", "slack", "home.mcafee.com", "mcafee.com", "cdn.cookielaw.org", "validadordecnpj.clevert.com.br", "geradorspf.com", "dias-uteis.com", "incoming.telemetry.mozilla.org", "detectportal.firefox.com", "chat.adapta.org", "openai.com", "adapta.org", "intranet", "consulta", "settings", "config", ".pdf", "prazofacil.com.br"]
+{
+  "sites": [
+    "*.adapta.org",
+    "*config*",
+    "*consulta*",
+    "*gov.br",
+    "*intranet*",
+    "*ooklaserver*",
+    "*settings*",
+    "*slack*",
+    "speedtest.com",
+    "FILE",
+    "adapta.org",
+    "app.slack.com",
+    "cdn.cookielaw.org",
+    "clevert.com.br",
+    "code.jquery.com",
+    "detectportal.firefox.com",
+    "dias-uteis.com",
+    "geradorcpf.com",
+    "home.mcafee.com",
+    "incoming.telemetry.mozilla.org",
+    "mcafee.com",
+    "planalto.gov.br",
+    "prazofacil.com.br",
+    "smartpdf.com.br",
+    "souzaadv.slack.com",
+    "validadordecnpj",
+    "validadordecnpj.clevert.com.br"
+  ]
+}
