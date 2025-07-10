@@ -26,6 +26,3 @@
 +souzaadv.slack.com
 +validadordecnpj
 +validadordecnpj.clevert.com.br
-+microsoft.com
-+reddit.com
-+youtube.com
